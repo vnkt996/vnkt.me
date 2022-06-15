@@ -1,21 +1,25 @@
 {
-  "short_name": "Portfolio",
-  "name": "Nivishree's Portfolio",
-  "description": "A passionate Full Stack Web Developer and Mobile App Developer.",
-    "icons": [
-      {
-        "src": "./favicon.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "./favicon.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-  "start_url": "./index.html",
+  "short_name": "DeveloperFolio",
+  "name": "DeveloperFolio",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/android-chrome-192x192.png?v8=qAJ44G5Bm7",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-384x384.png?v8=qAJ44G5Bm7",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "start_url": ".",
   "display": "standalone",
-  "theme_color": "#11cdef",
-  "background_color": "#11cdef"
+  "theme_color": "#6c63ff",
+  "background_color": "#ffffff"
 }
